@@ -27,6 +27,8 @@ cd secure-password-solution
 # Execute com Maven
 mvn spring-boot:run
 
+https://github.com/backend-br
+
 English
  About
 This is my solution to the Secure Password challenge from the backend-br/desafios repository.
@@ -54,7 +56,7 @@ cd secure-password-solution
 # Run with Maven
 mvn spring-boot:run
 
- Links
+https://github.com/backend-br
 
 Original Challenge
 
